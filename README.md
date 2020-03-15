@@ -1,4 +1,4 @@
-![flutter chat app github](https://user-images.githubusercontent.com/55942632/76700750-995df300-66e0-11ea-8647-b662b9e518fe.png)
+![Flutter app ui design white background](https://user-images.githubusercontent.com/55942632/76701312-1dff4000-66e6-11ea-8f66-330422cd4b0e.png)
 
 <p align="center">
   <a href="https://github.com/theindianappguy/messages">
