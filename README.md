@@ -12,4 +12,6 @@
 Chat App UI made with Flutter, Hosted on Codemagic. Don't forget to star ⭐ the repo it motivates me to share more open source
 </p>
 
+🙏 Credits [Message](https://dribbble.com/shots/6499682-messages)
+
 
