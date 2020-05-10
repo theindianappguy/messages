@@ -1,4 +1,4 @@
-![Flutter app ui design white background](https://user-images.githubusercontent.com/55942632/76701312-1dff4000-66e6-11ea-8f66-330422cd4b0e.png)
+![Flutter Chat App UI Design Made by theindianappguy](https://user-images.githubusercontent.com/55942632/81511537-b8bb7a00-9337-11ea-8c1e-365d02f44092.png)
 
 <p align="center">
   <a href="https://github.com/theindianappguy/messages">
