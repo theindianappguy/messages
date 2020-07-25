@@ -15,7 +15,7 @@ Design Credits [Message](https://dribbble.com/shots/6499682-messages)
 
 [Sanskar Tiwari](https://github.com/theindianappguy) ([@theindianappguy](https://twitter.com/Theindianappguy)) ([YouTube](https://www.youtube.com/c/SanskarTiwari))
 
-> If you found this project helpful or you learned something from the source code and want to thank me, consider buying me a cup of :coffee:
+> 
 >
 > - [PayPal](https://paypal.me/iamsanskartiwari)
 
